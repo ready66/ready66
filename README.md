@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ready66
+- 👋 Hi, I’m @ready66, mechanical engineer
 - 👀 I’m interested in learning software programming
 - 🌱 I’m currently learning python and html
 - 💞️ I’m looking to collaborate on interesting engineering projects
